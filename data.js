@@ -459,7 +459,7 @@ window.DASHBOARD_DATA = {
             {
               text: "GitHub 帳號",
               desc: "註冊帳號後，作品、儲存庫列表和協作紀錄都會出現在這裡。",
-              done: false,
+              done: true,
             },
             {
               text: "public vs private",
